@@ -1,4 +1,4 @@
-# Grbage Collection Simulator Using Reinforcment Learning
+# Garbage Collection Simulator Using Reinforcment Learning
 
 This project was done for a third year curricular unit (Introdução a Sistemas Inteligentes e Autónomos).
 
